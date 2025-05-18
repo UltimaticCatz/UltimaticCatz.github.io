@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ultimaticcatz.github.io/UltimaticCatz.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
